@@ -12,14 +12,14 @@
 * User Stats
 
 <p align="center">
-  <a href="https://github.com/vahram24">
-    <img src="https://github-readme-stats.vercel.app/api?username=vahram24&count_private=true&show_icons=true&theme=blueberry">
+  <a href="https://github.com/van-Art">
+    <img src="https://github-readme-stats.vercel.app/api?username=van-Art&count_private=true&show_icons=true&theme=blueberry">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vahram24">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahram24&theme=blueberry">
+  <a href="https://github.com/van-Art">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=van-Art&theme=blueberry">
   </a>
 </p>
 
@@ -38,19 +38,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vahram24/Trouble-Temple">
+  <a href="https://github.com/van-Art/Trouble-Temple">
     <img src="https://badge42.vercel.app/api/v2/cl2hu08a1003009jrwfa6lv8w/stats?cursusId=21&coalitionId=undefined">
   </a> 
 </p>
 
 <p align="center">
-  <a href="https://github.com/vahram24/Trouble-Temple">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vahram24&repo=Trouble-Temple&theme=vue-dark">
+  <a href="https://github.com/van-Art/Trouble-Temple">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=van-Art&repo=Trouble-Temple&theme=vue-dark">
   </a>
 </p>
 
 <!---
-vahram24/vahram24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+van-Art/van-Art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @vahram24
 - 👀 I’m interested in Programing
