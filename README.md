@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vahram24">
+  <a href="https://github.com/van-Art">
     <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
   </a>
 </p>
