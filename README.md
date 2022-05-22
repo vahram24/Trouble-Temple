@@ -3,7 +3,7 @@
 
 ## Hi There 👋
 
-* Graduated: UFAR Lyon 3 (Finance)
+<!-- * Graduated: UFAR Lyon 3 (Finance)
 * Also studying as student in 42 Yerevan Armenia
 
 
@@ -42,7 +42,7 @@
     <img src="https://badge42.vercel.app/api/v2/cl2hu08a1003009jrwfa6lv8w/stats?cursusId=21&coalitionId=undefined">
   </a> 
 </p>
-
+ -->
 <p align="center">
   <a href="https://github.com/van-Art/Trouble-Temple">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=van-Art&repo=Trouble-Temple&theme=vue-dark">
